@@ -39,7 +39,7 @@ SensorsAnalytics SDK 是国内第一家开源商用版用户行为采集 SDK，�
 ## 讨论
 
 可以扫码加入神策官方 SDK QQ 讨论群：<br><br>
-![ QQ 讨论群](https://github.com/sensorsdata/sa-sdk-android/raw/master/docs/qrCode.jpeg)
+![ QQ 讨论群](/IMG_0055.JPG)
 
 ## 新书推荐
 
